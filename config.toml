@@ -6,7 +6,7 @@ baseurl = "https://sophia.github.io"
 languageCode = "zh-tw" 
 #設定 Blog 語言
 
-title = "Whatever you want" 
+title = "2023.7.4" 
 #設定網站標題
 
 buildDrafts = false 
@@ -44,9 +44,9 @@ weight = 30
 
 [params.profileMode]
 enabled = true
-title = "Enter the Content"
+title = "1123"
 subtitle = "TT"
-imageUrl = ""
+imageUrl = "img/1.gif"
 imageWidth = 120
 imageHeight = 120
 imageTitle = "2023.7.4"
@@ -61,7 +61,7 @@ url = "/categories/"
 
 [[params.socialIcons]]
 name = "github"
-url = "your github profile url"
+url = "https://github.com/sophia1123"
 #...more
 
 [params] 
